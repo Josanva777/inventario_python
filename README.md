@@ -47,7 +47,7 @@ Este proyecto es un sistema de gestión de inventarios que permite registrar pro
 
 
 
-Johan Sánchez: Trabaja en el archivo registrar_producto.py y resetear_inventario.py.
+Johan Sánchez: Trabaja en el archivo registrar_producto.py y resetear_inventario.py. listo 
 José Toro: Trabaja en el archivo actualizar_cantidad.py y sistema_inventario.py.
 Sebastian Vasquez: Trabaja en el archivo generar_reporte.py y crear_archivo_inicial.py.
 Sebastian Jimenez: Trabaja en los archivos visualizar_estadisticas.py y main.py.
