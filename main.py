@@ -4,7 +4,7 @@ from registrar_producto import registrar_producto
 from actualizar_cantidad import actualizar_cantidad
 from generar_reporte import generar_reporte
 from visualizar_estadisticas import visualizar_estadisticas
-from resetear_inventario import resetear_inventario
+from resetear_inventario import resetear_inventario 
 
 def main():
     sistema = SistemaInventario()

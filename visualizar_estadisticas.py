@@ -7,4 +7,4 @@ def visualizar_estadisticas(sistema):
     if estadisticas.empty:
         st.warning("No hay datos para mostrar estadísticas.")
         return
-    st.bar_chart(estadisticas)
+    st.bar_chart(estadisticas) 
